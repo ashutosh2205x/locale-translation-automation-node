@@ -1,6 +1,3 @@
 {
-  // have to write it once
-  "A": "a",
-  "B": "b",
-  "C": "c"
-}
+    "HELLO": "Hello"
+} 
