@@ -45,7 +45,6 @@ function sanitizeAndCapitalize(str) {
 }
 
 const translateFn = async (str, language) => {
-  let targetLanguage = 'hi';
   if (str) {
     let body = {
       pipelineTasks: [
